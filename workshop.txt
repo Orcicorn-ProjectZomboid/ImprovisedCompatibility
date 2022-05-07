@@ -16,6 +16,7 @@ description=[list]
 description=  [*] Requires "[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2800412098]Improvised Glass[/url] and "[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2719327441]Snake's Mod Pack: Pimp my Ride[/url]"
 description=  [*] Adds cross-compatibility IG:GlassPane and Snake:GlassPanel for building windows
 description=  [*] Adds conversion recipes between GlassPane and GlassPanel
+description=  [*] Increases Mechanic requirements for IG windshield recipes
 description=[/list]
 description=
 description=[hr]
