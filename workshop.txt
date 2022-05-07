@@ -1,0 +1,21 @@
+version=1
+id=2804928166
+title=Improvised Compatibility
+description=A collection of compatibility patches to make my [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2797187720]Home Improvisation mods[/url] work with other popular or requested mods.
+description=
+description=As the collection grows be sure to only enable the mod ID that matches the set of mods you wish to add compatibility for.  They should be enabled AFTER the parent mods are loaded. So for example if you are adding compatibility between Improvised Glass and ModA, make sure to enable Glass and ModA BEFORE the compatibility mod.
+description=
+description=[h1]Requesting Compatibility[/h1]
+description=Leave a comment with a link to the mod you would like to see compatibility added for. Include what items/recipes/actions you would expect to be interchangeable between the two mods.
+description=
+description=
+description=[h1]Currently Supported Compatibility Crossovers[/h1]
+description=
+description=[b]IGTallerMecanico[/b]
+description=[list]
+description=  [*] Requires "[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2800412098]Improvised Glass[/url] and "[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2719327441]Snake's Mod Pack: Pimp my Ride[/url]"
+description=  [*] Adds cross-compatibility IG:GlassPane and Snake:GlassPanel for building windows
+description=  [*] Adds conversion recipes between GlassPane and GlassPanel
+description=[/list]
+tags=Build 41
+visibility=public
