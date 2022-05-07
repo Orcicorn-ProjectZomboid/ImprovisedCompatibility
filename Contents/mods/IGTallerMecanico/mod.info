@@ -1,0 +1,5 @@
+name=Improvised Compatibility: Glass & TallerMecanico
+id=IGTallerMecanico
+description=Comptaibility patching for Improvised Glass and Taller Mecanico (Snakes mod pack)
+require=ImprovisedGlass,TallerMecanico
+poster=poster.png

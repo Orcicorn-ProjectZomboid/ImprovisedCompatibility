@@ -1,0 +1,19 @@
+module ImprovisedGlass {
+    imports {
+        Base
+    }
+
+    recipe IGConvertToTallerMecanico {
+        ImprovisedGlass.GlassPane,
+        Result:Base.BigGlassPanel,
+        Time: 1,
+        Category: Windows,
+    }
+
+    recipe IGConvertFromTallerMecanico {
+        Base.BigGlassPanel,
+        Result:ImprovisedGlass.GlassPane,
+        Time: 1,
+        Category: Windows,
+    }
+}

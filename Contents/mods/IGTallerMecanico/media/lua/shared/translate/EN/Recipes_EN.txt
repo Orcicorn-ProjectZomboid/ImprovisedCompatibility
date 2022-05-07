@@ -1,0 +1,4 @@
+Recipe_EN {
+    Recipe_IGConvertToTallerMecanico = "Convert to Glass Panel",
+    Recipe_IGConvertFromTallerMecanico = "Convert to Improvised Glass Pane",
+}
