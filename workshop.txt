@@ -8,7 +8,7 @@ description=
 description=[h1]Requesting Compatibility[/h1]
 description=Leave a comment with a link to the mod you would like to see compatibility added for. Include what items/recipes/actions you would expect to be interchangeable between the two mods.
 description=
-description=
+description=[hr]
 description=[h1]Currently Supported Compatibility Crossovers[/h1]
 description=
 description=[b]IGTallerMecanico[/b]
@@ -17,5 +17,10 @@ description=  [*] Requires "[url=https://steamcommunity.com/sharedfiles/filedeta
 description=  [*] Adds cross-compatibility IG:GlassPane and Snake:GlassPanel for building windows
 description=  [*] Adds conversion recipes between GlassPane and GlassPanel
 description=[/list]
+description=
+description=[hr]
+description=[h1]Source Code[/h1]
+description=Improvised Compatibility is open-source and published on [url=https://github.com/Orcicorn-ProjectZomboid/ImprovisedCompatibility]Github[/url]
+description=
 tags=Build 41
 visibility=public
