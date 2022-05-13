@@ -1,0 +1,19 @@
+module ImprovisedGlass {
+    imports {
+        Base
+    }
+
+    recipe IGConvertToBuildingTime {
+        ImprovisedGlass.GlassPane,
+        Result:filcher.SFGlassPanel,
+        Time: 1,
+        Category: Windows,
+    }
+
+    recipe IGConvertFromBuildingTime {
+        filcher.SFGlassPanel,
+        Result:ImprovisedGlass.GlassPane,
+        Time: 1,
+        Category: Windows,
+    }
+}

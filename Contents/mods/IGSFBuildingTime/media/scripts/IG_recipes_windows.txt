@@ -1,0 +1,110 @@
+module ImprovisedGlass {
+    imports {
+        Base
+    }
+
+    recipe IGMakeWindow01 {
+        keep Hammer,
+        keep Saw/GardenSaw,
+        Plank=2,
+        Nails=6,
+        ImprovisedGlass.GlassPane/filcher.SFGlassPanel,
+        Result: Moveables.fixtures_windows_01_0,
+        OnGiveXP: ImprovisedGlass_XPMakeWindowWood,
+        SkillRequired:Carpentry=2,
+        Time: 120.0,
+        NeedToBeLearn: True,
+        Category: Windows,
+        AnimNode: BuildLow,
+        Prop1: Hammer,
+        Sound: Hammering,
+    }
+
+    recipe IGMakeWindow02 {
+        keep Hammer,
+        keep Saw/GardenSaw,
+        Plank=2,
+        Nails=6,
+        PaintWhite,
+        ImprovisedGlass.GlassPane/filcher.SFGlassPanel,
+        Result: Moveables.fixtures_windows_01_8,
+        OnGiveXP: ImprovisedGlass_XPMakeWindowWood,
+        SkillRequired:Carpentry=2,
+        Time: 120.0,
+        NeedToBeLearn: True,
+        Category: Windows,
+        AnimNode: BuildLow,
+        Prop1: Hammer,
+        Sound: Hammering,
+    }
+
+    recipe IGMakeWindow03 {
+        keep Hammer,
+        keep Saw/GardenSaw,
+        Plank=2,
+        Nails=6,
+        ImprovisedGlass.GlassPane/filcher.SFGlassPanel,
+        Result: Moveables.fixtures_windows_01_16,
+        OnGiveXP: ImprovisedGlass_XPMakeWindowWood,
+        SkillRequired:Carpentry=2,
+        Time: 120.0,
+        NeedToBeLearn: True,
+        Category: Windows,
+        AnimNode: BuildLow,
+        Prop1: Hammer,
+        Sound: Hammering,
+    }
+
+    recipe IGMakeWindow04 {
+        keep Hammer,
+        keep Saw/GardenSaw,
+        Plank=2,
+        Nails=6,
+        PaintWhite,
+        ImprovisedGlass.GlassPane/filcher.SFGlassPanel,
+        Result: Moveables.fixtures_windows_01_24,
+        OnGiveXP: ImprovisedGlass_XPMakeWindowWood,
+        SkillRequired:Carpentry=2,
+        Time: 120.0,
+        NeedToBeLearn: True,
+        Category: Windows,
+        AnimNode: BuildLow,
+        Prop1: Hammer,
+        Sound: Hammering,
+    }
+
+    recipe IGMakeWindow05 {
+        keep BlowTorch=6,
+        keep WeldingMask,
+        WeldingRods=4,
+        MetalBar=2,
+        ImprovisedGlass.GlassPane/filcher.SFGlassPanel,
+        Result: Moveables.fixtures_windows_01_32,
+        SkillRequired:MetalWelding=2,
+        OnGiveXP: ImprovisedGlass_XPMakeWindowMetal,
+        Time: 120.0,
+        NeedToBeLearn: True,
+        Category: Windows,
+        AnimNode: BlowTorchFloor,
+        Prop1: Blowtorch,
+        Sound: BlowTorch,
+    }
+
+    recipe IGMakeWindow06 {
+        keep Hammer,
+        keep Saw/GardenSaw,
+        Plank=2,
+        Nails=6,
+        ImprovisedGlass.GlassPane/filcher.SFGlassPanel,
+        Result: Moveables.fixtures_windows_01_56,
+        OnGiveXP: ImprovisedGlass_XPMakeWindowWood,
+        SkillRequired:Carpentry=2,
+        Time: 120.0,
+        NeedToBeLearn: True,
+        Category: Windows,
+        AnimNode: BuildLow,
+        Prop1: Hammer,
+        Sound: Hammering,
+    }
+
+}

@@ -1,0 +1,5 @@
+name=Improvised Compatibility: Glass & Building Time
+id=IGSFBuildingTime
+description=Compatibility patching for Improvised Glass and Soul Filcher's Building Time
+require=ImprovisedGlass,BuildingTime
+poster=poster.png
