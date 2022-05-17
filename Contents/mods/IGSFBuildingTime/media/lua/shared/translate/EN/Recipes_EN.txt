@@ -1,4 +1,0 @@
-Recipe_EN {
-    Recipe_IGConvertToBuildingTime = "Convert to Filcher's Glass Panel",
-    Recipe_IGConvertFromBuildingTime = "Convert to Improvised Glass Pane",
-}

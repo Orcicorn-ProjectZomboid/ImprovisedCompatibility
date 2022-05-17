@@ -1,4 +1,0 @@
-Recipe_ES {
-    Recipe_IGConvertToTallerMecanico = "Convertir a panel de vidrio",
-    Recipe_IGConvertFromTallerMecanico = "Convertir en panel de vidrio improvisado",
-}
