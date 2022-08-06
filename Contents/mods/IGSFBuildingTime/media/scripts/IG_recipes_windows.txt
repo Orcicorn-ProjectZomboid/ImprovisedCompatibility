@@ -4,8 +4,8 @@ module ImprovisedGlass {
     }
 
     recipe IGMakeWindow01 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Nails=6,
         ImprovisedGlass.GlassPane/filcher.SFGlassPanel,
@@ -21,8 +21,8 @@ module ImprovisedGlass {
     }
 
     recipe IGMakeWindow02 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Nails=6,
         PaintWhite,
@@ -39,8 +39,8 @@ module ImprovisedGlass {
     }
 
     recipe IGMakeWindow03 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Nails=6,
         ImprovisedGlass.GlassPane/filcher.SFGlassPanel,
@@ -56,8 +56,8 @@ module ImprovisedGlass {
     }
 
     recipe IGMakeWindow04 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Nails=6,
         PaintWhite,
@@ -75,7 +75,7 @@ module ImprovisedGlass {
 
     recipe IGMakeWindow05 {
         keep BlowTorch=6,
-        keep WeldingMask,
+        keep [Recipe.GetItemTypes.WeldingMask],
         WeldingRods=4,
         MetalBar=2,
         ImprovisedGlass.GlassPane/filcher.SFGlassPanel,
@@ -91,8 +91,8 @@ module ImprovisedGlass {
     }
 
     recipe IGMakeWindow06 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Nails=6,
         ImprovisedGlass.GlassPane/filcher.SFGlassPanel,
